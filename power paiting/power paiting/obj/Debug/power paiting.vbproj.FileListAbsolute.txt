@@ -1,0 +1,11 @@
+C:\Users\cehar185\source\repos\power paiting\power paiting\bin\Debug\power paiting.exe.config
+C:\Users\cehar185\source\repos\power paiting\power paiting\bin\Debug\power paiting.exe
+C:\Users\cehar185\source\repos\power paiting\power paiting\bin\Debug\power paiting.pdb
+C:\Users\cehar185\source\repos\power paiting\power paiting\bin\Debug\power paiting.xml
+C:\Users\cehar185\source\repos\power paiting\power paiting\obj\Debug\power paiting.vbprojAssemblyReference.cache
+C:\Users\cehar185\source\repos\power paiting\power paiting\obj\Debug\power_paiting.Form1.resources
+C:\Users\cehar185\source\repos\power paiting\power paiting\obj\Debug\power_paiting.Resources.resources
+C:\Users\cehar185\source\repos\power paiting\power paiting\obj\Debug\power paiting.vbproj.GenerateResource.cache
+C:\Users\cehar185\source\repos\power paiting\power paiting\obj\Debug\power paiting.exe
+C:\Users\cehar185\source\repos\power paiting\power paiting\obj\Debug\power paiting.xml
+C:\Users\cehar185\source\repos\power paiting\power paiting\obj\Debug\power paiting.pdb
